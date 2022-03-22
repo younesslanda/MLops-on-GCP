@@ -5,4 +5,4 @@ Firstly, we develop, package as a docker image, and run on AI Platform Training 
 
 After that, we deploy and run a Kubeflow Pipeline (KFP) that automates ML workflow steps.
 
-<img src="img/kfp-pipeline-graph.png" alt="drawing" width="400"/>
+<img src="img/kfp-pipeline-graph.png" alt="kfp pipeline graph" width="400"/>
